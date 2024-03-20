@@ -1,5 +1,3 @@
-Certainly! Here's a copy-and-paste friendly version of the code:
-
 ```python
 import requests
 from bs4 import BeautifulSoup
